@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GridViewDemo3</string>
+
+    <string-array name="country_names">
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+    </string-array>
+
+</resources>
